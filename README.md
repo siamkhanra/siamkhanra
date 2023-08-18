@@ -5,7 +5,7 @@
 Skills: C / Java / Python / JavaScript / HTML / CSS / Bootstrap / ReactJS
 
 - 🔭 I’m currently working in a reputed company in Bangladesh, I want to be a good developer.
-- 🌱 I’m currently learning Deep Learning, Machine Learning and Cyber Security 
+- 🌱 I’m currently learning Deep Learning, Machine Learning and Web Development. 
 - 👯 I’m looking to collaborate on Github 
 
 
