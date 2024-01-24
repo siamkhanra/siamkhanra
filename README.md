@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Md. Arafat Hossain Siam
 #### Programmer 
- I am student of East West University, Department of Electronics and Communications Engineering. I have a passion for learning and sharing my knowledge with others. I love to solve real world problems. I have interest on Deep Learning, Machine Learning, Cyber Security and Development etc. I am strategic, goal-oriented, and always work with an end goal in mind. I am a hard working, honest individual. I am a good timekeeper, always willing to learn new skills. I am friendly, helpful and polite, have a good sense of humour.
+ I am a student of East West University, Department of Electronics and Communications Engineering. I have a passion for learning and sharing my knowledge with others. I love to solve real world problems. I have interest on Deep Learning, Machine Learning, Cyber Security and Development etc. I am strategic, goal-oriented, and always work with an end goal in mind. I am a hard working, honest individual. I am a good timekeeper, always willing to learn new skills. I am friendly, helpful and polite, have a good sense of humour.
 
 Skills: C / Java / Python / JavaScript / HTML / CSS / Bootstrap / ReactJS
 
